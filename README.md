@@ -14,3 +14,11 @@ _Very_ basic mod for ADACA routing/theorycrafting assistance.
 
 - `Alt-Q`: Toggle weapon spawn menu 
 - `Alt-F`: Toggle "`mat_fullbright` at home" 
+
+# Installation
+
+- Install [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS/releases) in your ADACA install folder
+- In `ADACA/Content/Paks`, create a new folder (if one doesn't exist) called `LogicMods`
+- Place `ADACAUtilMod.pak` into the `LogicMods` folder
+
+If UE4SS was installed correctly, the mod should automatically be loaded.
