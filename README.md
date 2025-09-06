@@ -4,7 +4,7 @@ _Very_ basic mod for ADACA routing/theorycrafting assistance.
 
 ## Features
 
-- Level exits are visible
+- Level exits and damage volumes are visible
 - Player position readout
 - Level exit readout
 - Weapon and item spawn menus
@@ -15,6 +15,7 @@ _Very_ basic mod for ADACA routing/theorycrafting assistance.
 
 - `Alt-Q`: Toggle weapon spawn menu 
 - `Alt-E`: Toggle item spawn menu 
+- `Alt-D`: Toggle damage volume visibility
 - `Alt-F`: Toggle "`mat_fullbright` at home" 
 
 # Installation
