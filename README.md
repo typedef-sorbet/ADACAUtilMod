@@ -4,7 +4,7 @@ _Very_ basic mod for ADACA routing/theorycrafting assistance.
 
 ## Features
 
-- Level exits and damage volumes are visible
+- Level exits, damage volumes, blocking volumes, and checkpoint volumes are visible
 - Player position readout
 - Level exit readout
 - Weapon and item spawn menus
@@ -16,7 +16,15 @@ _Very_ basic mod for ADACA routing/theorycrafting assistance.
 - `Alt-Q`: Toggle weapon spawn menu 
 - `Alt-E`: Toggle item spawn menu 
 - `Alt-D`: Toggle damage volume visibility
+- `Alt-I`: Toggle blocking volume (invisible wall) visibility
+- `Alt-C`: Toggle checkpoint volume visibility
 - `Alt-F`: Toggle "`mat_fullbright` at home" 
+
+## Notes
+
+Checkpoint and blocking volume visualizers do not currently represent the
+true extent of collision -- hoping to address this in the future. For now,
+though, you should be able to at least get a general sense of their position.
 
 # Installation
 
