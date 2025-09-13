@@ -8,7 +8,7 @@ _Very_ basic mod for ADACA routing/theorycrafting assistance.
 - Player position readout
 - Level exit readout
 - Weapon and item spawn menus
-- Speedometer
+- Speedometer (both base and absolute)
 - _Kinda_ `mat_fullbright` equivalent 
 
 ## Keybinds
