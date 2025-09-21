@@ -7,7 +7,7 @@ _Very_ basic mod for ADACA routing/theorycrafting assistance.
 - Level exits, damage volumes, blocking volumes, and checkpoint volumes are visible
 - Player position readout
 - Level exit readout
-- Data module position readout
+- Data module and reader position readout
 - Weapon and item spawn menus
 - Speedometer (both base and absolute)
 - _Kinda_ `mat_fullbright` equivalent 
